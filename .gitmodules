@@ -1,0 +1,6 @@
+[submodule "CPControl"]
+	path = CPControl
+	url = git@github.com:Kneelawk/CPControl.git
+[submodule "WavefrontTools"]
+	path = WavefrontTools
+	url = git@github.com:Kneelawk/WavefrontTools.git
